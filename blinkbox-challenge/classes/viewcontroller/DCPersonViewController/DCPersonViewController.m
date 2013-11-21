@@ -19,6 +19,7 @@
 @implementation DCPersonViewController
 #pragma mark - UIViewController
 - (void)viewDidLoad {
+    self.navigationItem.title = @"Diego Chohfi";
     [self setupDataSourceForTableView];
 }
 #pragma mark - DCFetchedResultsControllerDataSourceDelegate
