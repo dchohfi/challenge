@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>firstName</key>
+		<string>Steven</string>
+		<key>lastName</key>
+		<string>Jobs</string>
+		<key>age</key>
+		<string>50</string>
+		<key>image</key>
+		<string>http://adsoftheworld.com/files/steve-jobs.jpg</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Jony</string>
+		<key>lastName</key>
+		<string>Ive</string>
+		<key>age</key>
+		<string>46</string>
+		<key>image</key>
+		<string>http://d.fastcompany.net/multisite_files/codesign/imagecache/1280/poster/2012/10/1671131-poster-1280-jony-ive.jpg</string>
+	</dict>
+	<dict>
+		<key>firstName</key>
+		<string>Scott</string>
+		<key>lastName</key>
+		<string>Forstall</string>
+		<key>age</key>
+		<string>45</string>
+		<key>image</key>
+		<string>http://upload.wikimedia.org/wikipedia/commons/1/19/Scott_Forstall.jpg</string>
+	</dict>
+</array>
+</plist>
